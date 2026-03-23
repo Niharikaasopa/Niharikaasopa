@@ -4,9 +4,9 @@
 <br/>
 
 - 🎓 Pursuing my **MSE in Data Science at Johns Hopkins University**
-- 💼 Previously **Associate Software Engineer at Third Rock Techkno** — built full-stack apps with React, Three.js, AngularJS & AWS
+- 💼 Previously **Associate Software Engineer at Third Rock Techkno** : built full-stack apps with React, Three.js, AngularJS & AWS
 - 🔭 I'm currently working on **ML research and AI-driven projects**
-- 🌱 I'm currently learning **LLMs, RAG systems, and deep learning**
+- 🌱 I'm currently learning **LLMs and deep learning**
 - 💬 Ask me about **React, Next.js, Python, Machine Learning, Data Science**
 - 📫 How to reach me: **niharikaasopa@gmail.com**
 
@@ -16,8 +16,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/niharika-asopa-114406277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niharika asopa" height="30" width="40" /></a>
 </p>
-
-<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -31,8 +29,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a> &nbsp;&nbsp;
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/></a>
 
-<br/><br/>
-
 **Backend & Cloud**
 
 <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a> &nbsp;&nbsp;
@@ -40,8 +36,6 @@
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a> &nbsp;&nbsp;
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a> &nbsp;&nbsp;
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
-
-<br/><br/>
 
 **Data Science & ML**
 
